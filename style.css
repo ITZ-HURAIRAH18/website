@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@87.5,300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    overflow-x: hidden;
+}
+
+.n{
+    color: black;
+}
+.z{
+    font-family: "Heebo", sans-serif;
+    font-weight: bold;
+}
+.f{
+    margin-top: 150px;
+   
+}
+.x{
+    margin-left: 60px;
+}
+.d{
+    font-family: "Poppins", sans-serif;
+   line-height: 30px;
+}
+/* @media screen and (min-width: 560px) and (max-width: 1070px) {
+    .g {
+        display: none;
+    }
+} */
+@media screen and (min-width: 770px) and (max-width: 1070px) {
+    .lo {
+        width: 100px;
+    }
+    .po{
+position: relative;
+left: -80px;
+    }
+}
+@media screen and (min-width: 570px) and (max-width: 770px) {
+  .g{
+    display: none;
+  }
+}
+@media screen and (max-width: 570px) {
+    .fb {
+       margin-right: 12px;
+    }
+}
+
+.gc{
+    text-decoration: none;
+    color: blue;
+}
+.gc:hover{
+    color: white;
+}
+.u{
+    position: relative;
+}
+.fy{
+width: 500px;
+height: 450px;
+background-color: rgb(29,59,83);
+z-index: -1;
+position: absolute;
+border-radius: 40% 20% 60% 30%;
+top: 80px;
+left: 17%;
+}
+
+@media screen and (min-width:300px) and (max-width:560px){
+    .fy{
+        margin-left: -40px;
+        width: 330px;
+        height: 330px;
+        position: absolute;
+        top: 130px;
+    }
+    .sw{
+        width: 350px;
+        height: 350px!important;
+    }
+    
+}
+@media screen and (min-width:100px) and (max-width:300px){
+    .fy{
+        width: 180px;
+        height: 180px;
+    }
+    .sw{
+        width: 200px;
+        height: 200px !important;
+    }
+    
+}
+.rt{
+    width: 100px;
+    height: 303px;
+}
+.kj{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+.ty{
+    font-family: "Heebo", sans-serif;
+    font-weight: bold;  
+}
+.d{
+    border: none;
+}
+.jd{
+    font-family: "Heebo", sans-serif;
+    font-weight: bold; 
+}
+.fc{
+    text-decoration: none;
+    color: black;
+}
+.hy{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+.nx{
+    margin-top: 20px;
+}
+.gf{
+    margin-top: 40px;
+}
+.kd{
+    margin-top: 14px;
+}
+
+ .sz{
+    color: white;
+ }
+ .tw{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+ }
+/* .gd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+.ki{
+   line-height: 15px;
+   font-size: 15px;
+}
+.fw{
+    font-family: "Heebo", sans-serif;
+    margin-top: 4px;
+}
+.n{
+    font-family: "Heebo", sans-serif;
+}
+.ud{
+    position:absolute;
+    left: 10px;
+    top: 8px;
+    
+}
+@media screen  and (min-width:0px) and ( max-width:1160px){
+    .uf{
+        display: none;
+    }
+    .fq{
+        margin-left: 50px;
+    }
+}
+@media screen  and (min-width:0px) and ( max-width:990px){
+   .rd{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+   }
+   
+}
+@media screen  and (min-width:0px) and ( max-width:990px){
+    .fq{
+        margin: auto;
+    }
+}
+@media screen and (min-width:900px) and ( max-width:1400px) {
+    .v{
+        overflow-x: hidden;
+    }
+    
+}
+.cd{
+    border: none;
+    color: black;
+    
+}
+
+
+@media screen and  (min-width:0px) and (max-width:990px) {
+    .gde{
+        display: block;
+        margin: auto;
+    }
+    
+}
+
+.yh{
+    text-decoration: none;
+    color: black;
+}
+td:hover a{
+    color: blue;
+}
+.hh{
+    text-decoration: none;
+    color: black;
+}
+span:hover .hh{
+    color: blue;
+}
+.rf{
+    cursor: pointer;
+}
+.io{
+    cursor: pointer;
+}
+.iu{
+    color: #F7C32E;
+}
+
+
+
+
+
+
+
+
+.fe{
+    font-weight: bold;
+}
+.hc{
+    text-decoration: none;
+}
+.d:hover a{
+    color: white;
+}
+.tpo:hover a
+{
+    color: rgb(92, 92, 185);
+}
+@media screen and (min-width:0px) and (max-width:570px) {
+    .jb{
+        width: 100px;
+    }
+    
+}
+.tc{
+    font-weight: bold;
+    font-size: 20px;
+}
+.ui{
+    text-decoration: none;
+    color: black;
+}
+p:hover a{
+    color: blue;
+}
